@@ -19,9 +19,9 @@ It allows users to start, pause, and reset time easily.
 - JavaScript
 
 ---
-
 ## 📸 Preview
 
+![Stopwatch Screenshot](screenshot.png)
 
 ---
 
